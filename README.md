@@ -1,16 +1,58 @@
-# dating_app
+# 💖 Flutter Dating App
 
-A flutter project of a dating app concept from dibbble
+A clean and beginner-friendly **Flutter dating app UI** built to practice Flutter fundamentals such as navigation, layouts, reusable widgets, and basic state handling.  
+This project focuses mainly on **front-end UI and app flow**, making it ideal for Flutter beginners.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 About the Project
 
-A few resources to get you started if this is your first Flutter project:
+The Flutter Dating App is a **UI-based mobile application** inspired by modern dating platforms.  
+It allows users to view profiles and see users who have super-liked them.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+This project has been **migrated to Dart null safety** and works with the latest Flutter SDK.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+---
+![alt text](image.png)
+![alt text](image-1.png)
+
+## ✨ Features
+
+- 👤 User Profile Screen  
+- 💙 Super Likes Screen  
+- 📄 Clean and modular Flutter structure  
+- 🔄 Smooth navigation between screens  
+- 🎨 Simple and modern UI  
+- ✅ Null safety enabled  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **UI:** Material Design  
+- **State Management:** Stateful Widgets (Basic)  
+- **Platforms:** Android & iOS  
+
+---
+
+## 📂 Project Structure
+
+datingapp/
+├── android/
+├── ios/
+├── web/
+├── linux/
+├── macos/
+├── windows/
+├── lib/
+│ ├── main.dart
+│ ├── profile_page.dart
+│ ├── super_likes_me_page.dart
+│ └── ...
+├── test/
+├── pubspec.yaml
+├── pubspec.lock
+└── README.md
+
